@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136941076406",
+    "project_id": "feature-flags-739e4",
+    "storage_bucket": "feature-flags-739e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136941076406:android:45c49369a393794d9c0b17",
+        "android_client_info": {
+          "package_name": "com.vverbytskyi.featureflags"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkc9iSeHyd8rP4jiUfAApzNH2Li2MkvJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
